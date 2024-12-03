@@ -14,7 +14,7 @@ import (
 	"os/exec"
 	"path/filepath"
 
-	"github.com/kardianos/service"
+	service "github.com/benoitdm-oslandia/go-service"
 )
 
 // Config is the runner app config structure.

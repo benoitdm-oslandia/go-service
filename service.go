@@ -18,7 +18,7 @@
 //	import (
 //		"log"
 //
-//		"github.com/kardianos/service"
+//		service "github.com/benoitdm-oslandia/go-service"
 //	)
 //
 //	var logger service.Logger
@@ -59,7 +59,7 @@
 //			logger.Error(err)
 //		}
 //	}
-package service // import "github.com/kardianos/service"
+package service // import service "github.com/benoitdm-oslandia/go-service"
 
 import (
 	"errors"
